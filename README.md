@@ -7,6 +7,6 @@ The Alpha Vantage library (https://www.alphavantage.co/documentation/) allows tr
 ## Expected Outcome
 The script produces a figure of 4 panels (2x2) of 4 chosen cryptocurrencies available at Alpha Vantage API. The API free key enables only 5 calls per minute, and I choose 4 for the sake of presentation. Each panel depicts the chosen cryptocurrency prices for the last k days and its moving average over n days, with k, n being chosen at the user's discretion. Then, an Excel sheet will also be generated, with each out of 4 sheets contain all the prices and moving average for the chosen cryptocurrency. The original script selects 4 cryptocurrencies: Bitcoin, Ether, Litecoin and Cardano. The user can change the desirable currencies names and symbols in the dictionary 'symbols_dict' at the beginning of the script.
 
-![alt text](https://imgur.com/a/NvP8hLO)
+![alt text](https://imgur.com/gallery/NvP8hLO)
 
 ## Remarks and criticism welcome. 
